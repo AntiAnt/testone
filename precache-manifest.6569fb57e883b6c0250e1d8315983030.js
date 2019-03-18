@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/testone/static/js/runtime~main.18b8bafd.js"
   },
   {
-    "revision": "c84bf49d7a2f8e10ef27",
-    "url": "/testone/static/js/main.7ee6cfa5.chunk.js"
+    "revision": "1bcb0503d494afcfdc48",
+    "url": "/testone/static/js/main.f2ed07c8.chunk.js"
   },
   {
     "revision": "cfbda0e9061432ca6501",
     "url": "/testone/static/js/2.f213e47f.chunk.js"
   },
   {
-    "revision": "c84bf49d7a2f8e10ef27",
+    "revision": "1bcb0503d494afcfdc48",
     "url": "/testone/static/css/main.f0075383.chunk.css"
   },
   {
-    "revision": "3cb06aeec481e05885cc5c5196e2d818",
+    "revision": "1de5c2d32740ca64cd5789898ede6d02",
     "url": "/testone/index.html"
   }
 ];
